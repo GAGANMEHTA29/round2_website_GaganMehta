@@ -4,7 +4,7 @@ const hashPassword = async (password) => {
     try {
         const saltRounds = 10;
         const hashedPassword = await bcrypt.hash(password, saltRounds);
-        return hashedPassword;
+        return hashedPassword; 
     } catch (error) {
         console.log("some error occurred while encrypting password")
         res.send({
