@@ -6,7 +6,7 @@ const registerSchema = new mongoose.Schema({
         required: true
     },
     email: {
-        type: String,
+        type: String, 
         required: true,
         unique: true
     },
