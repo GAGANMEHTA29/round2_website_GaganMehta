@@ -30,6 +30,10 @@ Open your browser and go to https://mobileapplication.onrender.com/user-register
 Fill in the signup form with your details.
 
 Click the "Sign Up" button.
+![Screenshot (605)](https://github.com/GAGANMEHTA29/round2_website_GaganMehta/assets/99328799/6fa2bb9a-e88d-4b24-a2f4-40f126421b55)
+![Screenshot (608)](https://github.com/GAGANMEHTA29/round2_website_GaganMehta/assets/99328799/c0a03d8b-b6c5-477c-887f-e57d2a4c4a5f)
+![Screenshot (606)](https://github.com/GAGANMEHTA29/round2_website_GaganMehta/assets/99328799/38cdd375-fbb9-4dbb-adc2-6a3216e91971)
+![Screenshot (607)](https://github.com/GAGANMEHTA29/round2_website_GaganMehta/assets/99328799/5d36b6f4-c599-4f9c-b588-e7ddc55527f5)
 
 The server will handle the signup request and store the user data in the MongoDB database.
 ![rc](https://github.com/GAGANMEHTA29/round2_website_GaganMehta/assets/99328799/34d89a39-e72a-4408-9ab1-43752ad100cc)
